@@ -110,14 +110,13 @@ solifugo has [put together a guide](https://github.com/saitei/crypto-sheets/wiki
 
 ### Donations
 
-* XRB
-   * **xrb_3ix8dfgn7hkz3choqi1qr6jgopoodh1jr1giwixzqaohks7d1f98dau45c11**
-* ETH
-   * **0x7E9DDB5343a583705Ed9ADE065C0595EFB55D681**
-* VTC
-   * **Vo8EXgAtxCVUtMaTQECuzLD2tZU1HqLbhT**
-* BCH
-   * **1Gzs8uKoUY23R7kTRE8NwAucAArAk8mdCg**
+* BTC
+   * ** **
+* LTC
+   * ** **
+* Dash
+   * ** **
+
 
 ### License
 
